@@ -4,7 +4,6 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";  // Import Firestore
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAROT6v2A_Mhb4yoV-im9jvDlz6K0bCTwI",
   authDomain: "gta-portfolio-88cf7.firebaseapp.com",
   projectId: "gta-portfolio-88cf7",
   storageBucket: "gta-portfolio-88cf7.firebasestorage.app",
